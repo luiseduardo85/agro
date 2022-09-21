@@ -1,0 +1,36 @@
+body{
+    background: #647E68;
+    font: 16px Arial, Helvetica, sans-serif;
+}
+#container-top{
+    width: 900px;
+}
+#menu{
+    background: #3D8361;
+    padding: 15px;
+    width: 875px;
+}
+
+a{
+    color: #FFFAE7;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 3px;
+}
+.texto-principal{
+    text-align: justify;
+    width: 875px;
+    background-color: #A1C298;
+    padding: 15px;
+}
+h2{
+    color: #FFFAE7;
+}
+.centralizar{
+    text-align: center;
+    color: #FFFAE7;
+}
+
+@media screen and (max-device-width: 1200px) {  
+    #container-top{min-width: 900px;}
+ }
