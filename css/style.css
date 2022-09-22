@@ -30,7 +30,3 @@ h2{
     text-align: center;
     color: #FFFAE7;
 }
-
-@media screen and (max-device-width: 1200px) {  
-    #container-top{min-width: 900px;}
- }
